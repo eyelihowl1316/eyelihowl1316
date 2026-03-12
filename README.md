@@ -1,6 +1,6 @@
-<img src="banner-2025-2.png" alt="Profile Banner" />
+<img src="Jumita Tambunan.png" alt="Profile Banner" />
 
-<h2 align="center">Jumita</h2>
+<h2 align="center">Jumita 👸🏻 </h2>
 <p align="center">
 </p>
 
@@ -8,11 +8,11 @@
 
 ### Introduction
 
-Hi, I am Jumita. I am a student from Mikroskil University Medan, North Sumatra. I am interested in developing desktop and mobile-based applications as well as full stack web development, and I am currently still in the learning stage.
+Hi 👋🏻, I am Jumita. I am a Information System student from Mikroskil University Medan, North Sumatra. I am interested in developing desktop and mobile-based applications as well as full stack web development, and I am currently still in the learning stage. 👩🏻‍💻
 
 ---
 
-### Skill & Tech
+### Skill & Tech 🖥️
 
 **Skill**
 - C++
@@ -26,7 +26,7 @@ Hi, I am Jumita. I am a student from Mikroskil University Medan, North Sumatra. 
   
 ---
 
-### Social Media Links
+### Social Media Links 🖇️
 
 <p align="center">
   <a href="https://www.github.com/eyelihowl1316">GitHub</a> ·
@@ -35,9 +35,9 @@ Hi, I am Jumita. I am a student from Mikroskil University Medan, North Sumatra. 
 </p>
 
 ---
-### Quotes
+### Quotes 🍪
 
-Turning coffee into code
+Turning coffee into code ☕
 ---
 
-<p align="center">Thanks for visiting.</p>
+<p align="center">Thanks for visiting. 🦢 </p>
