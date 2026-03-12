@@ -1,16 +1,43 @@
-## Hi there 👋
+<img src="banner-2025-2.png" alt="Profile Banner" />
 
-<!--
-**eyelihowl1316/eyelihowl1316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Jumita</h2>
+<p align="center">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Introduction
+
+Hi, I am Jumita. I am a student from Mikroskil University Medan, North Sumatra. I am interested in developing desktop and mobile-based applications as well as full stack web development, and I am currently still in the learning stage.
+
+---
+
+### Skill & Tech
+
+**Skill**
+- C++
+- Phyton
+- Javascript
+
+**Tech**
+- Visual studio code
+- Figma
+- MySQL
+  
+---
+
+### Social Media Links
+
+<p align="center">
+  <a href="https://www.github.com/eyelihowl1316">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/jumita-tambunan-560463243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> ·
+  <a href="https://discord.com/users/ninetystate">Discord</a>
+</p>
+
+---
+### Quotes
+
+Turning coffee into code
+---
+
+<p align="center">Thanks for visiting.</p>
