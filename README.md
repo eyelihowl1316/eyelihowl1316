@@ -37,7 +37,7 @@ Hi 👋🏻, I am Jumita. I am a Information System student from Mikroskil Unive
 ---
 ### Quotes 🍪
 
-<p> Turning coffee into code ☕ </p>
+<p> You don’t have to be great to start, but you have to start to be great. </p>
 
 ---
 
