@@ -15,7 +15,7 @@ Hi 👋🏻, I am Jumita. I am a Information System student from Mikroskil Unive
 ### Skill & Tech 🖥️
 
 **Skill**
-- C++
+- C#
 - Phyton
 - Javascript
 
