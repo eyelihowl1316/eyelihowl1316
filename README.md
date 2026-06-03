@@ -23,6 +23,7 @@ Hi 👋🏻, I am Jumita. I am a Information System student from Mikroskil Unive
 - Visual studio code
 - Figma
 - MySQL
+- Visual Studio 2019
   
 ---
 
