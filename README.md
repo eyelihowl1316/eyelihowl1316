@@ -18,12 +18,14 @@ Hi 👋🏻, I am Jumita. I am a Information System student from Mikroskil Unive
 - C#
 - Phyton
 - Javascript
+- SQL Query
 
 **Tech**
 - Visual studio code
 - Figma
 - MySQL
 - Visual Studio 2019
+- SQL server
   
 ---
 
