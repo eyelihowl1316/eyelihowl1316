@@ -33,7 +33,8 @@ Hi 👋🏻, I am Jumita. I am a Information System student from Mikroskil Unive
 
 <p align="center">
   <a href="https://www.github.com/eyelihowl1316">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/jumita-tambunan-560463243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> ·
+  <a href="[https://www.linkedin.com/in/jumita-tambunan-560463243?](https://www.linkedin.com/in/jumita-tambunan-03b145413/)utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> ·
+  <a href="">LinkedIn</a> ·
   <a href="https://discord.com/users/ninetystate">Discord</a>
 </p>
 
