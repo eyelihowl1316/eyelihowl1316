@@ -1,5 +1,3 @@
-<img src="Jumita Tambunan.png" alt="Profile Banner" />
-
 <h2 align="center">Jumita 👸🏻 </h2>
 <p align="center">
 </p>
